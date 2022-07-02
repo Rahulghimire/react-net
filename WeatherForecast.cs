@@ -1,4 +1,4 @@
-namespace react_net;
+namespace Xapau;
 
 public class WeatherForecast
 {
